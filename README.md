@@ -1,1 +1,1 @@
-# kubernets-docker-example
+# kubernetes-docker-example
