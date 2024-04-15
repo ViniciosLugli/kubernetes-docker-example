@@ -1,0 +1,13 @@
+# Rust and Cargo
+target
+cargo.lock
+Cargo.lock
+**/*.rs.bk
+*.pdb
+.cache
+.cargo
+rustfmt.toml
+
+# Env files
+.vscode
+.env
